@@ -1,4 +1,4 @@
 # Star-Field
-Created with the library p5.js
+Created with p5.js library.
 
-Main file is "index.html" present in shiffman p5 folder
+Main file is "index.html" present in shiffman_p5 folder.
